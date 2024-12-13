@@ -2,5 +2,5 @@
 using namespace std;
 
 int main () {
-    printf ("Hello world!!!") ;
+    printf ("version 2") ;
 }
